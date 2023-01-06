@@ -88,7 +88,7 @@ section {
           align-items: center;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
-          justify-content: space-between;
+          justify-content: center;
   gap: 1rem;
 }
 
@@ -180,7 +180,7 @@ section {
 }
 
 .home .content {
-  max-width: 70rem;
+  max-width: 50rem;
   text-align: center;
   margin: 0 auto;
 }
